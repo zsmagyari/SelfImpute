@@ -11,7 +11,7 @@ authored by Zsolt Magyari-Sáska, Ionel Haidu and Attila Magyari-Sáska
 
 ## function.R
 - contains 4 functions used in gap creation and imputation performance assessment
-- description of usage inside
+- the details about the functions are inside the file
 - the functions are linked to the presented folder structure
 
 
