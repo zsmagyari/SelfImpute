@@ -6,7 +6,7 @@ authored by Zsolt Magyari-Sáska, Ionel Haidu and Attila Magyari-Sáska
 ## Content of folders
 * **Originals** - original data with no gaps
 * **Masked** - 1000 samples for each station with different [05,10,15,20] gap percentage category each, used in forward imputation
-* **Imputed** - Ratio method, Kalman Filter, Random Forest, Gradient Bosst, Extrem Gradient Boost, CatBooster imputed and reimputed datasets for all 4 percentage category for each station
+* **Imputed** - Ratio method, Kalman Filter, Random Forest, Gradient Boost, Extreme Gradient Boost, CatBooster imputed and reimputed datasets for all 4 percentage category for each station
 * **Remasked** - remasked datasets created after forward imputation for each imputation method and for each gap percentage category, used in backward imputation
 
 ## function.R
